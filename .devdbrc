@@ -1,0 +1,6 @@
+[
+  {
+    "type": "sqlite",
+    "path": "/home/thabuks/Development/code/phases_4/python-p4-flask-sqlalchemy/server/instance/app.db"
+  }
+]
